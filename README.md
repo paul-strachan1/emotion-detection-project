@@ -1,9 +1,3 @@
-# Repository for final project
-
-Course: IBM Generative AI Engineering
-Module: Developing AI applications with Python and Flask
-This is my completed assignment for the Developing AI Applications with Python and Flask module
-
 # Emotion Detection Web Application
 
 ## Overview
