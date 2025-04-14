@@ -71,6 +71,8 @@ final_project/
 
 ## Testing
 Run the unit tests with:
+- test_emotion_detection_mock.py - if you don't have access to the IBM Watson NLP AI API
+- test_emotion_detection.py - if you do have access to the IBM Watson NLP AI API
 
 ## Course Information
 This project was developed as part of the IBM Generative AI Engineering course, specifically for the "Developing AI Applications with Python and Flask" module.
